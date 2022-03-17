@@ -1,1 +1,1 @@
-# Maze
+# Maze (pc only)
