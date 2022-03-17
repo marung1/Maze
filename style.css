@@ -1,0 +1,14 @@
+p {
+  font-family: cursive; Brush Script MT;
+}
+
+div {
+  font-family: cursive; Brush Script MT;
+  font-weight: bold;
+}
+
+p {cursor: cell;}
+
+div {cursor: cell;}
+
+h2 {cursor: cell;}
